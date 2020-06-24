@@ -29,9 +29,9 @@
                 <Grid.RowDefinitions>
                     <RowDefinition/>
                 </Grid.RowDefinitions>
-                <ImageButton Source="{utils:ImageFromResources TP1_module6.Images.pencil.png}" Aspect="AspectFit" Grid.Row="0" Grid.Column="2" ></ImageButton>
+                <ImageButton Source="pencil.png" Aspect="AspectFit" Grid.Row="0" Grid.Column="2" ></ImageButton>
                 <Label Grid.Row="0" Grid.Column="1" TextColor="White" Text="Accueil" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"></Label>
-                <ImageButton Source="{utils:ImageFromResources TP1_module6.Images.search.png}" Aspect="AspectFit" Grid.Row="0" Grid.Column="0"></ImageButton>
+                <ImageButton Source="search.png" Aspect="AspectFit" Grid.Row="0" Grid.Column="0"></ImageButton>
             </Grid>
         </ContentView>
         <ContentView Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" BackgroundColor="AliceBlue">
@@ -83,9 +83,12 @@ convallis dolor. Quisque ultricies porttitor nunc venenatis facilisis." Grid.Row
                             <ContentView>
                                 <!--<StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">-->
                                 <StackLayout Orientation="Horizontal">
-                                    <ImageButton Source="{utils:ImageFromResources TP1_module6.Images.reply.png}" HorizontalOptions="CenterAndExpand"></ImageButton>
+                                    <ImageButton Source="reply.png" HorizontalOptions="CenterAndExpand"></ImageButton>
+                                    <ImageButton Source="retweet.png" HorizontalOptions="CenterAndExpand"></ImageButton>
+                                    <ImageButton Source="favorite.png" HorizontalOptions="CenterAndExpand"></ImageButton>
+                                   <!-- <ImageButton Source="{utils:ImageFromResources TP1_module6.Images.reply.png}" HorizontalOptions="CenterAndExpand"></ImageButton>
                                     <ImageButton Source="{utils:ImageFromResources TP1_module6.Images.retweet.png}" HorizontalOptions="CenterAndExpand"></ImageButton>
-                                    <ImageButton Source="{utils:ImageFromResources TP1_module6.Images.favorite.png}" HorizontalOptions="CenterAndExpand"></ImageButton>
+                                    <ImageButton Source="{utils:ImageFromResources TP1_module6.Images.favorite.png}" HorizontalOptions="CenterAndExpand"></ImageButton>-->
                                 </StackLayout>
                             </ContentView>
                         </StackLayout>

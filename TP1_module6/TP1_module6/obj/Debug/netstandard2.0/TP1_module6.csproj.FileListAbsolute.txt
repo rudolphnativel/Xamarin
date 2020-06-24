@@ -11,3 +11,4 @@ D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard
 D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard2.0\TP1_module6.dll
 D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard2.0\ref\TP1_module6.dll
 D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard2.0\TP1_module6.pdb
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard2.0\TP1_module6.csprojAssemblyReference.cache

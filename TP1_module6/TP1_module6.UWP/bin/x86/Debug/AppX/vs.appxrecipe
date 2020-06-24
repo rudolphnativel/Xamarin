@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-06-24T13:11:20.108</Modified>
+      <Modified>2020-06-24T20:02:12.643</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6.UWP\bin\x86\Debug\TP1_module6.UWP.exe">
       <PackagePath>entrypoint\TP1_module6.UWP.exe</PackagePath>
-      <Modified>2020-06-24T13:11:17.043</Modified>
+      <Modified>2020-06-24T20:02:11.041</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rudolph Nativel\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.9\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -720,7 +720,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\bin\Debug\netstandard2.0\TP1_module6.dll">
       <PackagePath>TP1_module6.dll</PackagePath>
-      <Modified>2020-06-24T13:12:47.497</Modified>
+      <Modified>2020-06-24T20:02:04.080</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rudolph Nativel\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -899,11 +899,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-06-24T13:11:16.867</Modified>
+      <Modified>2020-06-24T20:02:10.853</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2020-06-24T13:11:16.867</Modified>
+      <Modified>2020-06-24T20:02:10.853</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -919,11 +919,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-06-24T13:11:18.314</Modified>
+      <Modified>2020-06-24T19:32:07.523</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6.UWP\bin\x86\Debug\Core\TP1_module6.UWP.exe">
       <PackagePath>TP1_module6.UWP.exe</PackagePath>
-      <Modified>2020-06-24T13:11:20.104</Modified>
+      <Modified>2020-06-24T20:02:12.637</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
