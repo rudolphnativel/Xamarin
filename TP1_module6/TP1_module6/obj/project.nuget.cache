@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GzuBhUzIgf8NZ3SAjX0fiOoxcL5jSUPffHL0+6jVWo6iyAccifg7wpE8O2haP4JuxZp1H60BKF+rMoirgWwb2A==",
+  "success": true,
+  "projectFilePath": "D:\\Cours\\cours xamarin\\dev\\Xamarin\\TP1_module6\\TP1_module6\\TP1_module6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rudolph Nativel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rudolph Nativel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Rudolph Nativel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

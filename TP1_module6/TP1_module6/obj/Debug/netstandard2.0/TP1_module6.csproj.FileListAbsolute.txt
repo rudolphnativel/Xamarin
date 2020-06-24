@@ -1,0 +1,13 @@
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\bin\Debug\netstandard2.0\TP1_module6.deps.json
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\bin\Debug\netstandard2.0\TP1_module6.dll
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\bin\Debug\netstandard2.0\ref\TP1_module6.dll
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\bin\Debug\netstandard2.0\TP1_module6.pdb
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard2.0\TP1_module6.AssemblyInfoInputs.cache
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard2.0\TP1_module6.AssemblyInfo.cs
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard2.0\TP1_module6.csproj.CoreCompileInputs.cache
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard2.0\TP1_module6.dll
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard2.0\ref\TP1_module6.dll
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module6\TP1_module6\obj\Debug\netstandard2.0\TP1_module6.pdb
