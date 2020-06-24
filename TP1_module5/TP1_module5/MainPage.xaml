@@ -32,25 +32,26 @@
                 <Image Source="search.png" Aspect="AspectFit" Grid.Row="0" Grid.Column="0"></Image>
             </Grid>
         </ContentView>
-        <ContentView Grid.Row="1" Grid.Column="0" >
-            <StackLayout Orientation="Horizontal">
-                <StackLayout Orientation="Vertical">
-                    <Entry Placeholder="Identifiant Twiter" PlaceholderColor="LightGray" HorizontalOptions="FillAndExpand"></Entry>
-                    <Entry Placeholder="mot de passe" PlaceholderColor="LightGray" HorizontalOptions="FillAndExpand"></Entry>
-                    <StackLayout Orientation="Horizontal">
-                        <Switch></Switch>
-                        <Label Text="Se souvenir de moi" TextColor="LightGray" VerticalOptions="CenterAndExpand"></Label>
-                    </StackLayout>
-                    
-                </StackLayout>                
-            </StackLayout>
-        </ContentView>
-        <ContentView Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3">
+        <ContentView Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="3" BackgroundColor="AliceBlue">
+        
+        <!--</ContentView>
+        <ContentView Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3">-->
+           
             <!--<ScrollView HorizontalOptions="FillAndExpand">-->
             <ScrollView>
                 <!--<StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">-->
                 <StackLayout>
                     <!--<ContentView  HorizontalOptions="FillAndExpand">-->
+                    <StackLayout >
+                        <!-- <StackLayout Orientation="Vertical">-->
+                        <Entry Grid.Row="0"  Placeholder="Identifiant Twiter" PlaceholderColor="LightGray" HorizontalOptions="FillAndExpand"></Entry>
+                        <Entry Grid.Row="1" Placeholder="mot de passe" PlaceholderColor="LightGray" HorizontalOptions="FillAndExpand"></Entry>
+                        <StackLayout Orientation="Horizontal" Grid.Row="2" >
+                            <Switch></Switch>
+                            <Label Text="Se souvenir de moi" TextColor="LightGray" VerticalOptions="CenterAndExpand"></Label>
+                            <!--  </StackLayout>-->
+                        </StackLayout>
+                    </StackLayout>
                     <ContentView>
                         <StackLayout>
                             <ContentView>
