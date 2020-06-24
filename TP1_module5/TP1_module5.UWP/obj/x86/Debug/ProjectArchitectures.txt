@@ -1,0 +1,1 @@
+D:\Cours\cours xamarin\dev\Xamarin\TP1_module5\TP1_module5.UWP\TP1_module5.UWP.csproj;x86

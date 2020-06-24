@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cours\\cours xamarin\\dev\\pt1 module 4\\pt1 module 4\\pt1 module 4\\pt1 module 4.csproj": {}
+    "D:\\Cours\\cours xamarin\\dev\\Xamarin\\pt1 module 4\\pt1 module 4\\pt1 module 4\\pt1 module 4.csproj": {}
   },
   "projects": {
-    "D:\\Cours\\cours xamarin\\dev\\pt1 module 4\\pt1 module 4\\pt1 module 4\\pt1 module 4.csproj": {
+    "D:\\Cours\\cours xamarin\\dev\\Xamarin\\pt1 module 4\\pt1 module 4\\pt1 module 4\\pt1 module 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cours\\cours xamarin\\dev\\pt1 module 4\\pt1 module 4\\pt1 module 4\\pt1 module 4.csproj",
+        "projectUniqueName": "D:\\Cours\\cours xamarin\\dev\\Xamarin\\pt1 module 4\\pt1 module 4\\pt1 module 4\\pt1 module 4.csproj",
         "projectName": "pt1 module 4",
-        "projectPath": "D:\\Cours\\cours xamarin\\dev\\pt1 module 4\\pt1 module 4\\pt1 module 4\\pt1 module 4.csproj",
+        "projectPath": "D:\\Cours\\cours xamarin\\dev\\Xamarin\\pt1 module 4\\pt1 module 4\\pt1 module 4\\pt1 module 4.csproj",
         "packagesPath": "C:\\Users\\Rudolph Nativel\\.nuget\\packages\\",
-        "outputPath": "D:\\Cours\\cours xamarin\\dev\\pt1 module 4\\pt1 module 4\\pt1 module 4\\obj\\",
+        "outputPath": "D:\\Cours\\cours xamarin\\dev\\Xamarin\\pt1 module 4\\pt1 module 4\\pt1 module 4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

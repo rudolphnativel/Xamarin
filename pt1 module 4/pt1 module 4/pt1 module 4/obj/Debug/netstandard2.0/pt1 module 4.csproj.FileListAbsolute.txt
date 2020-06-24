@@ -1,0 +1,9 @@
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4\obj\Debug\netstandard2.0\pt1 module 4.csprojAssemblyReference.cache
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4\obj\Debug\netstandard2.0\pt1 module 4.AssemblyInfoInputs.cache
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4\obj\Debug\netstandard2.0\pt1 module 4.AssemblyInfo.cs
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4\obj\Debug\netstandard2.0\pt1 module 4.csproj.CoreCompileInputs.cache
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4\obj\Debug\netstandard2.0\pt1 module 4.dll
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4\obj\Debug\netstandard2.0\ref\pt1 module 4.dll
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4\obj\Debug\netstandard2.0\pt1 module 4.pdb

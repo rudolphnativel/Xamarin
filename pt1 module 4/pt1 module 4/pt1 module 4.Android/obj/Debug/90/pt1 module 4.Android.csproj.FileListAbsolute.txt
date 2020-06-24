@@ -1,0 +1,33 @@
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\build.props
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\adb.props
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\pt1 module 4.Android.csprojAssemblyReference.cache
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\res.flag
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\F2D10E69445FD045.stamp
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\B69561A0515FCD7D.stamp
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\A684DC85065FB99D.stamp
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\75AC5221877946E6.stamp
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\0EDD985440382A84.stamp
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\32B01D14F21A1E0B.stamp
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\BA38C386D91A247B.stamp
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\FE7CAC4FCC1A3943.stamp
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\22A1A031A51A6AEB.stamp
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\7901F0070F3CAFE0.stamp
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\3D459FCE1A3CB2D8.stamp
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\F2D10E69445FD045.flata
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\B69561A0515FCD7D.flata
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\A684DC85065FB99D.flata
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\75AC5221877946E6.flata
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\0EDD985440382A84.flata
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\32B01D14F21A1E0B.flata
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\BA38C386D91A247B.flata
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\FE7CAC4FCC1A3943.flata
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\22A1A031A51A6AEB.flata
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\7901F0070F3CAFE0.flata
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\3D459FCE1A3CB2D8.flata
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\flata\compiled.flata
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\R.txt
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\R.cs.flag
+D:\Cours\cours xamarin\dev\Xamarin\pt1 module 4\pt1 module 4\pt1 module 4.Android\obj\Debug\90\pt1 module 4.Android.csproj.CoreCompileInputs.cache

@@ -1975,11 +1975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Cours\\cours xamarin\\dev\\pt1 module 4\\pt1 module 4\\pt1 module 4.Android\\pt1 module 4.Android.csproj",
+      "projectUniqueName": "D:\\Cours\\cours xamarin\\dev\\Xamarin\\pt1 module 4\\pt1 module 4\\pt1 module 4.Android\\pt1 module 4.Android.csproj",
       "projectName": "pt1 module 4.Android",
-      "projectPath": "D:\\Cours\\cours xamarin\\dev\\pt1 module 4\\pt1 module 4\\pt1 module 4.Android\\pt1 module 4.Android.csproj",
+      "projectPath": "D:\\Cours\\cours xamarin\\dev\\Xamarin\\pt1 module 4\\pt1 module 4\\pt1 module 4.Android\\pt1 module 4.Android.csproj",
       "packagesPath": "C:\\Users\\Rudolph Nativel\\.nuget\\packages\\",
-      "outputPath": "D:\\Cours\\cours xamarin\\dev\\pt1 module 4\\pt1 module 4\\pt1 module 4.Android\\obj\\",
+      "outputPath": "D:\\Cours\\cours xamarin\\dev\\Xamarin\\pt1 module 4\\pt1 module 4\\pt1 module 4.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\Cours\\cours xamarin\\dev\\pt1 module 4\\pt1 module 4\\pt1 module 4\\pt1 module 4.csproj": {
-              "projectPath": "D:\\Cours\\cours xamarin\\dev\\pt1 module 4\\pt1 module 4\\pt1 module 4\\pt1 module 4.csproj"
+            "D:\\Cours\\cours xamarin\\dev\\Xamarin\\pt1 module 4\\pt1 module 4\\pt1 module 4\\pt1 module 4.csproj": {
+              "projectPath": "D:\\Cours\\cours xamarin\\dev\\Xamarin\\pt1 module 4\\pt1 module 4\\pt1 module 4\\pt1 module 4.csproj"
             }
           }
         }

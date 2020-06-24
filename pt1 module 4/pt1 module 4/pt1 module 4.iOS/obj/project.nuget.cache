@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EPettXkUVIHby4tnN8YvzglnzLOuHCLvnJcSnpqhciR7O7152ZHyPn8sUp6FrhqfSL8fVrMe7gJAYJ7Yon4EPw==",
+  "dgSpecHash": "BjWm/iSfvo82brnmbaM0sBFuUCQ9v5+bj+mtV6HUq9itdAIKqo7ydj8xy4pu3BYTojiKt7BqV61h6BzhaGhGfQ==",
   "success": true,
-  "projectFilePath": "D:\\Cours\\cours xamarin\\dev\\pt1 module 4\\pt1 module 4\\pt1 module 4.iOS\\pt1 module 4.iOS.csproj",
+  "projectFilePath": "D:\\Cours\\cours xamarin\\dev\\Xamarin\\pt1 module 4\\pt1 module 4\\pt1 module 4.iOS\\pt1 module 4.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rudolph Nativel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
