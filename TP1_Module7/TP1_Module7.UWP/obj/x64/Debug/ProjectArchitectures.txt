@@ -1,0 +1,1 @@
+D:\Cours\cours xamarin\dev\Xamarin\TP1_Module7\TP1_Module7.UWP\TP1_Module7.UWP.csproj;x64

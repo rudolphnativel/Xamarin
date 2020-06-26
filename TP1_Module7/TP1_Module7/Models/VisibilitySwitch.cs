@@ -7,8 +7,6 @@ namespace TP1_Module7.Models
 {
     class VisibilitySwitch
     {
-        private View loginForm;
-        private View tweetForm;
 
         public View InitialVisible { get; }
         public View NextVisible { get; }

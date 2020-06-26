@@ -18,6 +18,8 @@ namespace TP1_Module7
         public MainPage()
         {
             InitializeComponent();
+
+            VisibilitySwitch VisibilitySwitch  = new VisibilitySwitch(this.tweet, this.loginF);
             new LoginForm(this.id, this.password, this.rebemerMe, this.loginF, this.tweet, this.errorLabel, this.ClickConnexion);
             var current = Connectivity.NetworkAccess;
 
